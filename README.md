@@ -3,10 +3,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED...;Initializing+profile..." alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Retr0wq&color=000000&style=flat-square&label=Oi" />
+</div>
 ---
 
 ```
-  > Thiago
+  >Thiago
+    Interesse em segurança da informação e sistemas.
+    Curioso sobre como as coisas funcionam por baixo.
 ```
 
 ---
@@ -26,6 +31,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-00ff99?style=flat-square&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ---
 
