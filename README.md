@@ -46,7 +46,7 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/thiago-tomaz-4769322a8">
+  <a href="https://www.linkedin.com/in/thiago-tomaz-4769322a8/">
     <a href="mailto:thilima1223@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
