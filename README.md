@@ -10,10 +10,13 @@
 
 ```
   >Thiago
-    Interesse em segurança da informação e sistemas.
-    Curioso sobre como as coisas funcionam por baixo.
+    Interested in Informationc Security and Systems in General
+    Curious about how things are behind the curtains
 ```
-
+<div align="center">
+  <h3><i>"Not all those who wander are lost."</i></h3>
+  <sub>— J.R.R. Tolkien</sub>
+</div>
 ---
 
 ### `// Stack`
@@ -36,11 +39,11 @@
 
 ---
 
-### `// Projetos`
+### `// Projects`
 
 | Projeto | Stack | Status |
 |---|---|---|
-| [task-manager](https://github.com/Retr0wq/task-manager) | React · Node · JWT · SQLite | ✅ completo |
+| [task-manager](https://github.com/Retr0wq/task-manager) | React · Node · JWT · SQLite | ✅ finished |
 
 ---
 
