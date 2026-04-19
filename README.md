@@ -10,7 +10,7 @@
 
 ```
   >Thiago
-    Interested in Informationc Security and Systems in General
+    Interested in Information Security and Systems in General
     Curious about how things are behind the curtains
 ```
 <div align="center">
