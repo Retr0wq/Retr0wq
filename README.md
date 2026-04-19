@@ -41,7 +41,7 @@
 
 ### `// Projects`
 
-| Projeto | Stack | Status |
+| Project | Stack | Status |
 |---|---|---|
 | [task-manager](https://github.com/Retr0wq/task-manager) | React · Node · JWT · SQLite | ✅ finished |
 
