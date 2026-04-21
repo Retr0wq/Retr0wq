@@ -32,6 +32,7 @@
 **Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=yellow)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-00ff99?style=flat-square&logoColor=black)
@@ -44,7 +45,7 @@
 | Project | Stack | Status |
 |---|---|---|
 | [task-manager](https://github.com/Retr0wq/task-manager) | React · Node · JWT · SQLite | ✅ finished |
-| [network-scanner](https://github.com/Retr0wq/network-scanner) | Python🐍 | ✅ finished |
+| [network-scanner](https://github.com/Retr0wq/network-scanner) |‎ ‎ ‎ ‎ ‎ Python🐍 | ✅ finished |
 
 ---
 
