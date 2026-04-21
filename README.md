@@ -58,5 +58,5 @@
 </div>
 
 <div align="center">
-  <sub>ᓚᘏᗢ🇧🇷</sub>
+  <sub>ᓚᘏᗢ</sub>
 </div>
