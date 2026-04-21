@@ -44,6 +44,7 @@
 | Project | Stack | Status |
 |---|---|---|
 | [task-manager](https://github.com/Retr0wq/task-manager) | React · Node · JWT · SQLite | ✅ finished |
+| [network-scanner](https://github.com/Retr0wq/network-scanner) | Python🐍 | ✅ finished |
 
 ---
 
